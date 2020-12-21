@@ -1,9 +1,9 @@
 # introdction 
-### My name is rahaf saeed, I'm 23 years old, I studied management information system at mu/tah university, and I like coding and programming.
+##### My name is rahaf saeed, I'm 23 years old, I studied management information system at mu'tah university. 
 
 
 
-# My Learning  Journal
+#### My Learning  Journal
 
 
 | Reads      | Subject |
