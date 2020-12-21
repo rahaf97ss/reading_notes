@@ -5,9 +5,9 @@ and it helps people to value what they're doing.
 
 
 How to keep yourself i a growth mindest:
-*Read something new everyday.
-*View challanges as opportunities.
-*Try different learning tactics.
+1-Read something new everyday.
+2-View challanges as opportunities.
+3-Try different learning tactics.
 
 Rahaf Saeed,23 Years old, management information system.
 https://github.com/rahaf97ss
