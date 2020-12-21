@@ -7,7 +7,7 @@ and it helps people to value what they're doing.
 
 
 
-How to keep yourself i a growth mindest:
+## How to keep yourself i a growth mindest:
 
 1-Read something new everyday.
 2-View challanges as opportunities.
