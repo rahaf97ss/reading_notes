@@ -9,7 +9,7 @@ How to keep yourself i a growth mindest:
 2-View challanges as opportunities.
 3-Try different learning tactics.
 
-Rahaf Saeed,23 Years old, management information system.
+Rahaf Saeed,23 Years old, management information system..
 https://github.com/rahaf97ss
 
 
