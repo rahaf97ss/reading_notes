@@ -12,7 +12,7 @@ Tags usually are in pairs,  closing and opening tags.
 Opening tags can carry attributes.
 Attributes requires a name and a value.
 
- # HTML5 layout:
+# HTML5 layout:
  It indicate the purpose of different parts of a web page and help to describe its structure.
  We need extra javascript from google so the HTML5 elements work in explorer 8.
  It provides a clearer code.
