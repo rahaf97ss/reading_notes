@@ -11,3 +11,4 @@
 | 1      | [Mindset](https://rahaf97ss.github.io/reading_notes/mindset)       |
 | 2   | [Learning markdown](https://rahaf97ss.github.io/reading_notes/learningmarkdown)        |
 | 3   | [Version Control](https://rahaf97ss.github.io/reading_notes/versioncontrol)        |
+| 4  | [HTML](https://rahaf97ss.github.io/reading_notes/html)        |

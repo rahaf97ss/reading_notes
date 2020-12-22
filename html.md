@@ -13,16 +13,16 @@ Opening tags can carry attributes.
 Attributes requires a name and a value.
 
  # HTML5 layout:
- It indicate the purpose of different parts of a web page and help tp describe its structure.
+ It indicate the purpose of different parts of a web page and help to describe its structure.
  We need extra javascript from google so the HTML5 elements work in explorer 8.
  It provides a clearer code.
  # Structure:
 
 # Extra markup: 
  DOCTYPES tell browsers which HTML you are using.
- You can add comments by <!-- and -->.
- The id attributes allow you ti identify elements.
- <div> and and <span> allow you to group block-leveland inline elements together.
+You add comments by <!-- and -->.
+ The id attributes allow you to identify elements.
+ <div> and <span> allow you to group block-leveland inline elements together.
 <iframes> cut windows .
  <meta> allows you to supply all kinds of information about your page.
  <,> for escaping characters.
