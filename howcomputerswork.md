@@ -4,7 +4,7 @@ It has to these things:
 1-Input : it's when you tell a computer to do stuff.
 2- Storage and processing: The computer takes the input and store it in a memory and then manipulates it, and then send the processed information to memory again.
 3- Output: this step depends on what the computer do.
-#  Binary and data:
+# Binary and data:
 Inside a computer is electric wires and circuits that carry all the information in the computer, with more bits in the wire you can represent more complex information.
 - Binary number system: it only has two digits 0 1, and with them we can count to any number.
 and even it can represent text, images, and sound.
