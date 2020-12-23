@@ -12,4 +12,4 @@
 | 2   | [Learning markdown](https://rahaf97ss.github.io/reading_notes/learningmarkdown)        |
 | 3   | [Version Control](https://rahaf97ss.github.io/reading_notes/versioncontrol)        |
 | 4  | [HTML](https://rahaf97ss.github.io/reading_notes/html)        |
-| 5  | [HTML](https://rahaf97ss.github.io/reading_notes/javascript)        |
+| 5  | [JavaScript](https://rahaf97ss.github.io/reading_notes/javascript)        |
