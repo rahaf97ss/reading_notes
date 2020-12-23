@@ -26,3 +26,9 @@ The id attributes allow you to identify elements.
 <iframes> cut windows .
 <meta> allows you to supply all kinds of information about your page.
 <,> for escaping characters.
+
+
+
+
+
+
