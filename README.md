@@ -12,4 +12,9 @@
 | 2   | [Learning markdown](https://rahaf97ss.github.io/reading_notes/learningmarkdown)        |
 | 3   | [Version Control](https://rahaf97ss.github.io/reading_notes/versioncontrol)        |
 | 4  | [HTML](https://rahaf97ss.github.io/reading_notes/HTML)        |
-| 4  | [How computers work](https://rahaf97ss.github.io/reading_notes/howcomputerswork)        |
+| 5 | [How computers work](https://rahaf97ss.github.io/reading_notes/howcomputerswork)        |
+| 6  | [JavaScript](https://rahaf97ss.github.io/reading_notes/javascript)        |
+|  7 | [More about JavaScript](https://rahaf97ss.github.io/reading_notes/javascript2)        |
+|  7 | [For and while loops](https://rahaf97ss.github.io/reading_notes/operators)        |
+
+
