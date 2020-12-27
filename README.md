@@ -15,6 +15,7 @@
 | 5 | [How computers work](https://rahaf97ss.github.io/reading_notes/howcomputerswork)        |
 | 6  | [JavaScript](https://rahaf97ss.github.io/reading_notes/javascript)        |
 |  7 | [More about JavaScript](https://rahaf97ss.github.io/reading_notes/javascript2)        |
-|  7 | [For and while loops](https://rahaf97ss.github.io/reading_notes/operators)        |
+|  8 | [For and while loops](https://rahaf97ss.github.io/reading_notes/operators)        |
+|  9 | [CSS](https://rahaf97ss.github.io/reading_notes/css)        |
 
 
